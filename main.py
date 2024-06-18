@@ -275,6 +275,7 @@ def main():
             st.sidebar.markdown(f"- ${cost:.5f}")
     else:
         st.warning("Please login to continue")
+        
     with st.sidebar:
          "[![View the source code](https://github.com/codespaces/badge.svg)](https://github.com/Ryosuke-M07/240619_RAG_Knowledge_Hub.git)"
 
