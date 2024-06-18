@@ -275,8 +275,8 @@ def main():
             st.sidebar.markdown(f"- ${cost:.5f}")
     else:
         st.warning("Please login to continue")
-    
-    "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/Ryosuke-M07/240619_RAG_Knowledge_Hub.git)"
+    with st.sidebar:
+         "[![View the source code](https://github.com/codespaces/badge.svg)](https://github.com/Ryosuke-M07/240619_RAG_Knowledge_Hub.git)"
 
 if __name__ == '__main__':
     main()
