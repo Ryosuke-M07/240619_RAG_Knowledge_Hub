@@ -6,8 +6,8 @@
 
 ### 準備するもの
 - **OpenAI APIキー**
-  - APIキーはOpenAI社のHPからご自身で作成してください。（[OpenAI](https://platform.openai.com/docs/overview)）
-  - 初めて作成する場合は、3ヶ月間無料で使える5ドルのクレジットが付与されます。
+  - APIキーはOpenAI社のHPからご自身で取得してください。（[OpenAI](https://platform.openai.com/docs/overview)）
+  - 初めて取得する場合は、3ヶ月間無料で使える5ドルのクレジットが付与されます。
   - ※1回答0.005ドル前後（GPT-3.5の場合、生成文の長さによります）
 
 ### 使い方
